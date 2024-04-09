@@ -4,7 +4,7 @@ A dynamic food ordering web application using ReactJS, Tailwind, Redux. It uses 
 
 # Live Deployment
 
-https://aquamarine-pudding-4c6e8b.netlify.app/
+https://quickcuisine.netlify.app/
 
 # Depedencies
 
